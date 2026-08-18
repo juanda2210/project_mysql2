@@ -371,13 +371,13 @@ Las pruebas realizadas se encuentran en la carpeta `images/`.
 
 Evidencia de la ejecución de la función de cálculo del total con IVA.
 
-![Prueba 1.1](images/prueba_1_1.png)
+![Prueba 1.1](images/prueba_1.1.png)
 
 #### Prueba 1.2 - `verificar_disponibilidad`
 
 Evidencia de la ejecución de la función que verifica la disponibilidad del salón.
 
-![Prueba 1.2](images/prueba_1_2.png)
+![Prueba 1.2](images/prueba_1.1.png)
 
 ---
 
@@ -387,19 +387,19 @@ Evidencia de la ejecución de la función que verifica la disponibilidad del sal
 
 Evidencia del trigger que cambia el salón a `Ocupado` al registrar una reserva.
 
-![Prueba 2.1](images/prueba_2_1.png)
+![Prueba 2.1](images/prueba_2.1.png)
 
 #### Prueba 2.2 - Liberación del salón
 
 Evidencia del trigger que cambia el salón a `Disponible` al eliminar una reserva.
 
-![Prueba 2.2](images/prueba_2_2.png)
+![Prueba 2.2](images/prueba_2.2.png)
 
 #### Prueba 2.3 - Auditoría de precios
 
 Evidencia del trigger que registra los cambios del precio por hora en `auditoria_precios`.
 
-![Prueba 2.3](images/prueba_2_3.png)
+![Prueba 2.3](images/prueba_2.3.png)
 
 ---
 
@@ -419,19 +419,19 @@ Evidencia de la consulta de la vista con la información resumida de las reserva
 
 Evidencia de la consulta que utiliza `BETWEEN`.
 
-![Prueba 4.1](images/prueba_4_1.png)
+![Prueba 4.1](images/prueba_4.1.png)
 
 #### Prueba 4.2 - Capacidad y estado
 
 Evidencia de la consulta que obtiene salones con capacidad mayor a un valor determinado y estado `Disponible`.
 
-![Prueba 4.2](images/prueba_4_2.png)
+![Prueba 4.2](images/prueba_4.2.png)
 
 #### Prueba 4.3 - Clientes corporativos
 
 Evidencia de la consulta que obtiene clientes corporativos con más de 3 reservas.
 
-![Prueba 4.3](images/prueba_4_3.png)
+![Prueba 4.3](images/prueba_4.3.png)
 
 ---
 
