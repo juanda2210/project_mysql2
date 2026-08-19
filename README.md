@@ -204,6 +204,19 @@ SELECT verificar_disponibilidad(
 
 ---
 
+## Diagramas
+
+### Diagrama entidad-relacion
+
+![diagrama_1](images/diagrama_entidad_relacion.png)
+
+
+### Diagrama modelo lógico
+
+![diagrama_2](images/diagrama_modelo_logico.png)
+
+---
+
 ## Consultas SQL
 
 ### 1. Reservas en un rango de fechas
