@@ -152,6 +152,19 @@ Campos principales:
 
 ---
 
+## Diagramas
+
+### Diagrama entidad-relacion
+
+![diagrama_1](images/diagrama_entidad_relacion.png)
+
+
+### Diagrama modelo lógico
+
+![diagrama_2](images/diagrama_modelo_logico.png)
+
+---
+
 ## Funciones
 
 ### `calcular_total_reserva`
@@ -201,19 +214,6 @@ SELECT verificar_disponibilidad(
     '2026-08-28 12:00:00'
 ) AS disponibilidad;
 ```
-
----
-
-## Diagramas
-
-### Diagrama entidad-relacion
-
-![diagrama_1](images/diagrama_entidad_relacion.png)
-
-
-### Diagrama modelo lógico
-
-![diagrama_2](images/diagrama_modelo_logico.png)
 
 ---
 
